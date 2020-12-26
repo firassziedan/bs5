@@ -1,0 +1,19 @@
+name: Bootstrap 5
+type: theme
+description: 'A Booststrap 5 based theme.'
+core: 8.x
+core_version_requirement: ^8 || ^9
+base theme: false
+
+regions:
+  top_header: 'Top header'
+  header: Header
+  primary_menu: 'Primary menu'
+  highlighted: Highlighted
+  breadcrumb: Breadcrumb
+  page_top: 'Page top'
+  sidebar_first: 'Sidebar first'
+  content: Content
+  sidebar_second: 'Sidebar second'
+  page_bottom: 'Page bottom'
+  footer: 'Footer'

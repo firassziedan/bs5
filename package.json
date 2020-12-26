@@ -1,0 +1,12 @@
+{
+  "name": "bs5",
+  "description": "Bootstrap 5 base theme.",
+  "license": "GPL-2.0",
+  "engines": {
+    "yarn": ">= 1.6",
+    "node": ">= 10.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1"
+  }
+}
