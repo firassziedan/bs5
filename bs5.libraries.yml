@@ -1,0 +1,4 @@
+bootstrap:
+  css:
+    base:
+      css/bootstrap/bootstrap.css: {}
